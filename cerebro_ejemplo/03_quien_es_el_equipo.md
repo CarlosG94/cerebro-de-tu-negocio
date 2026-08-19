@@ -1,6 +1,6 @@
-# Quién es el equipo — Empresa ABC
+# Quién es el equipo · Empresa ABC
 
-Usamos puestos, no nombres. Un documento con nombres se vuelve viejo el día que alguien renuncia.
+Escribimos puestos en lugar de nombres, porque un documento con nombres se vuelve viejo el día que alguien renuncia.
 
 | Puesto | De qué responde | Qué decide solo |
 |---|---|---|
@@ -11,12 +11,13 @@ Usamos puestos, no nombres. Un documento con nombres se vuelve viejo el día que
 
 ## Cómo escalamos
 
-Primero Coordinación. Si el cliente sigue molesto o hay dinero de por medio, pasa al Fundador el mismo día.
+Primero Coordinación. Cuando el cliente sigue molesto, o cuando hay dinero de por medio, pasa al Fundador el mismo día.
 
 ## Lo que hoy depende del fundador
 
 - Autorizar cualquier descuento.
+- Visitar y cotizar los trabajos de más de 30 mil pesos.
 - Cerrar clientes nuevos grandes.
 - Resolver quejas serias.
 
-Esta lista es un problema conocido. Cada punto que salga de aquí libera tiempo del fundador.
+Cada punto de esta lista se traduce en horas del fundador que la empresa todavía no puede recuperar.

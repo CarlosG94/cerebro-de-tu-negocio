@@ -8,13 +8,13 @@ license: MIT
 
 # Pregunta a tu socio
 
-Hay decisiones que el dueño no puede cerrar solo. El socio no tiene el contexto, el contador no estuvo en la junta, y el intercambio se vuelve diez mensajes de WhatsApp en tres días. Esta skill lo vuelve un solo documento.
+Hay decisiones que el dueño no puede cerrar solo. La otra persona no estuvo en la junta y le falta la mitad del contexto, así que el asunto se vuelve quince mensajes de WhatsApp repartidos en tres días. Esta skill lo convierte en un solo documento.
 
 ## Primero, filtra
 
 Antes de escribir nada, pregunta: **¿qué parte de esto sí puedes decidir tú?**
 
-Casi siempre el dueño puede cerrar la mitad solo. Mándale a la otra persona únicamente lo que de verdad requiere su firma, su dinero o su conocimiento. Un cuestionario de tres preguntas se contesta. Uno de doce se ignora.
+Casi siempre el dueño puede cerrar la mitad por su cuenta. Mándale a la otra persona nada más lo que requiere su firma, su dinero o algo que solo ella sabe. Tres preguntas se contestan esa tarde; doce se quedan sin abrir.
 
 ## El formato
 
@@ -27,7 +27,7 @@ Necesito tu respuesta antes de: [cuándo, y por qué esa fecha]
 ## Contexto
 [Cuatro renglones. Solo lo que esta persona necesita para contestar.]
 
-## Pregunta 1 — [el tema, en tres palabras]
+## Pregunta 1 · [el tema, en tres palabras]
 [La pregunta, directa.]
 
 Opciones:
@@ -39,17 +39,17 @@ Mi recomendación: [A o B, y por qué en una frase]
 Tu respuesta:
 
 
-## Pregunta 2 — ...
+## Pregunta 2 · ...
 ```
 
 ## Reglas
 
-- **Siempre da tu recomendación.** Una pregunta abierta regresa vacía. Una recomendación regresa con un sí o con una corrección, y las dos sirven.
+- **Siempre da tu recomendación.** Con una recomendación sobre la mesa, la otra persona contesta con un sí o con una corrección, y las dos respuestas te sirven. Una pregunta abierta se queda esperando.
 - **Toda opción lleva su consecuencia.** Quien contesta no conoce el detalle. Dile qué se activa con cada respuesta.
 - **Deja el renglón en blanco.** La gente contesta más cuando ve dónde escribir.
-- **Máximo cinco preguntas.** Si hay más, sobra filtro.
+- **Máximo cinco preguntas.** Si hay más, faltó filtro.
 - Nada de tecnicismos. Esta persona no estuvo en la conversación.
 
 ## Al final
 
-Pregúntale al dueño cómo lo va a mandar: correo, WhatsApp o en una llamada. Si es en una llamada, reordena las preguntas de la más difícil a la más fácil. Si es por escrito, al revés.
+Pregúntale al dueño cómo lo va a mandar. Para una llamada, ordena las preguntas empezando por la más difícil, mientras la otra persona todavía tiene paciencia. Para mandarlo por escrito, empieza por la más fácil.

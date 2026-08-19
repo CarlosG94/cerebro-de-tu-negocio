@@ -1,27 +1,39 @@
-# Quiénes somos — Empresa ABC
+# Quiénes somos · Empresa ABC
 
 ## A qué nos dedicamos
 
-Empresa ABC da servicio a negocios locales que necesitan resolver algo que no pueden resolver adentro. Vendemos el resultado, no las horas.
+Empresa ABC atiende trabajos a domicilio en casas, condominios y negocios del corredor. Cada trabajo empieza con una visita, se cotiza y se ejecuta en uno a cinco días con una cuadrilla de dos o tres personas.
+
+Hacemos entre 15 y 25 trabajos al mes. Poco más de la mitad son clientes que ya nos conocen.
 
 ## Cómo empezó
 
-El fundador trabajaba en el ramo y veía el mismo problema en todos lados: el cliente pedía algo simple y nadie le contestaba a tiempo. Abrió la empresa con una sola promesa, contestar rápido, y creció por recomendación.
+El fundador trabajó ocho años en el ramo antes de abrir la empresa. Se salió por una razón que veía todos los días: los clientes se quedaban sin respuesta y los trabajos se alargaban sin que nadie les avisara.
+
+Los primeros tres clientes fueron administradores de condominio que ya lo conocían. Casi todo lo que ha crecido vino de ahí.
 
 ## Qué nos hace distintos
 
-- Contestamos en menos de 2 horas en horario laboral.
-- Damos seguimiento a los 3 días, aunque el cliente no conteste.
-- Si nos equivocamos, lo decimos primero nosotros.
+- Contestamos en menos de 2 horas, de lunes a sábado.
+- La cotización sale el mismo día de la visita.
+- Damos seguimiento a los 3 días aunque el cliente se quede callado.
+- Si algo se atrasa, avisamos antes de que el cliente pregunte.
 
 ## Nuestra voz
 
-Hablamos de tú. Directo y cercano, sin palabras rebuscadas. Nada de "estimado cliente" ni de "quedamos a sus órdenes". Preferimos frases cortas.
+Le hablamos de tú al cliente, con frases cortas y palabras de todos los días.
 
-Cuando algo sale mal, no adornamos. Decimos qué pasó, qué vamos a hacer y para cuándo.
+Así escribimos:
+
+> Ya quedó. Te mando tres fotos. Cualquier detalle me dices y regreso mañana.
+
+Evitamos el tono de oficio: «estimado cliente», «se ha llevado a cabo satisfactoriamente», «quedamos a sus órdenes».
+
+Cuando algo sale mal decimos qué pasó, qué vamos a hacer y para cuándo, en ese orden.
 
 ## Lo que no hacemos
 
-- No damos precios por teléfono sin ver el caso.
-- No aceptamos trabajos que no podamos terminar en el plazo que prometemos.
-- No competimos por precio.
+- Damos precio hasta después de ver el trabajo.
+- Agendamos con un máximo de tres semanas de anticipación.
+- Cuando el presupuesto no alcanza, ajustamos el alcance y mantenemos el precio por hora.
+- Un trabajo que pide dos técnicos nunca sale con uno.

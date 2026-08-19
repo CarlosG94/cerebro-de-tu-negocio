@@ -8,7 +8,7 @@ license: MIT
 
 # Enséñame
 
-Un dueño ocupado no aprende en una sentada. Aprende en pedazos, entre juntas, a lo largo de semanas. Esta skill guarda el avance para que cada sesión empiece donde quedó la anterior.
+Un dueño ocupado aprende en pedazos, entre juntas, a lo largo de varias semanas. Esta skill guarda el avance para que cada sesión empiece donde quedó la anterior.
 
 ## Los tres documentos
 
@@ -22,7 +22,7 @@ Crea y mantén estos documentos dentro del proyecto. Son la memoria del aprendiz
 
 ## Al empezar
 
-Si no existe `mision.md`, no empieces a enseñar. Primero pregunta:
+Cuando no exista `mision.md`, párate ahí y pregunta:
 
 - ¿Qué quieres poder hacer que hoy no puedes?
 - ¿Para cuándo lo necesitas?
@@ -35,12 +35,12 @@ La misión aterriza todo lo demás. Sin ella, la enseñanza se vuelve una encicl
 1. **Lee `avance.md`** y di en dos renglones dónde quedaron.
 2. **Un tema por sesión.** Nada más.
 3. **Explica con el negocio del dueño**, tomando ejemplos del cerebro.
-4. **Ponlo a hacer algo**, aunque sea chico. Se aprende haciendo, no leyendo.
-5. **Pregunta qué quedó confuso** antes de cerrar. Escríbelo en `avance.md` aunque el dueño diga que todo quedó claro.
+4. **Ponlo a hacer algo**, aunque sea chico. La explicación sola se olvida el jueves.
+5. **Pregunta qué quedó confuso** antes de cerrar, y escríbelo en `avance.md` aunque el dueño diga que todo quedó claro.
 6. **Actualiza `avance.md`** al final, siempre.
 
 ## Reglas
 
 - Nunca cubras dos temas porque "van juntos".
-- Si el dueño se equivoca, no lo corrijas de inmediato. Pregunta cómo llegó ahí.
-- Si un tema del plan ya no sirve a la misión, quítalo del plan y dilo.
+- Cuando el dueño se equivoque, pregúntale cómo llegó ahí antes de corregirlo.
+- Cuando un tema del plan deje de servirle a la misión, quítalo y dilo.

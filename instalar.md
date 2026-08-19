@@ -12,20 +12,20 @@ Ya tienes dos cosas: la carpeta `cerebro_ejemplo/` y la carpeta `skills/`.
 
 ---
 
-## Camino A — Un proyecto (funciona en cualquier cuenta)
+## Camino A · Un proyecto (funciona en cualquier cuenta)
 
-Es el más rápido y el que usamos en el taller.
+Es el camino rápido y el que usamos en el taller.
 
 1. Abre la app de Claude y crea un **proyecto nuevo**. Ponle el nombre de tu empresa.
 2. Sube los cuatro archivos de `cerebro_ejemplo/` a los documentos del proyecto.
 3. Edítalos uno por uno con la información real de tu empresa. Empieza por `01_quienes_somos.md`.
 4. Cuando quieras usar una skill, abre el archivo `SKILL.md` de esa carpeta, copia todo el contenido y pégalo en el chat del proyecto.
 
-Funciona bien. La única desventaja es que copias y pegas la skill cada vez.
+Funciona en cualquier cuenta. El costo es que copias y pegas la skill cada vez que la usas.
 
 ---
 
-## Camino B — Skills instaladas (se quedan puestas)
+## Camino B · Skills instaladas (se quedan puestas)
 
 Si tu cuenta permite subir skills, instálalas una sola vez y quedan disponibles para siempre.
 
@@ -44,4 +44,4 @@ Escríbele esto a tu proyecto:
 
 > ¿Qué le falta a mi cerebro para poder contestarle a un cliente con mi tono?
 
-Si te contesta hablando de **tu** empresa y no de empresas en general, quedó bien instalado.
+Cuando la respuesta hable de **tu** empresa, con tus tiempos y tus reglas, quedó bien instalado.

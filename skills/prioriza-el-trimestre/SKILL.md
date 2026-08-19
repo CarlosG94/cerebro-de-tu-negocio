@@ -5,7 +5,7 @@ description: Convierte la lista de todo lo pendiente en 3 prioridades del trimes
 
 # Prioriza el trimestre
 
-El dueño no tiene un problema de ideas. Tiene 40 pendientes y ninguna forma de escoger. Esta skill escoge.
+Al dueño le sobran ideas. Lo que le falta es una forma de escoger entre 40 pendientes, y esa es la única tarea de esta skill.
 
 ## Antes de empezar
 
@@ -24,12 +24,12 @@ Para cada pendiente, estima tres cosas y muéstralas en una tabla:
 | Campo | Qué significa |
 |---|---|
 | Impacto | Qué cambia en el negocio si esto se hace |
-| Esfuerzo | Semanas de trabajo real, no de calendario |
+| Esfuerzo | Semanas de trabajo efectivo, contadas sin optimismo |
 | ¿Depende del dueño? | Sí o no |
 
-Los pendientes que dependen del dueño compiten entre sí por las mismas horas. Ese es el cuello de botella real de casi todo negocio chico.
+Los pendientes que dependen del dueño compiten entre ellos por las mismas horas. Ahí está el cuello de botella de casi todo negocio chico.
 
-### 3. Interroga los tres candidatos
+### 3. Interroga los candidatos
 
 Antes de recomendar nada, pregunta al dueño, uno a la vez:
 
@@ -43,12 +43,12 @@ Devuelve exactamente esto:
 
 **Las 3 prioridades.** Una línea cada una, con el porqué en una frase y la señal de que quedó lista.
 
-**Lo que NO se hace.** La lista de lo que se queda fuera, por escrito. Esta parte importa igual que la de arriba. Un trimestre sin lista de "no" se llena solo.
+**Lo que se queda fuera.** La lista completa, por escrito. Un trimestre sin esa lista se llena solo.
 
 **La primera acción de cada prioridad.** Algo que cabe en una tarde, para el lunes.
 
 ## Reglas
 
-- Tres prioridades. Ni cuatro ni cinco.
-- Si el dueño quiere más, pregúntale cuál de las tres sale.
+- Tres prioridades. Cuando el dueño quiera meter una cuarta, pregúntale cuál sale.
 - Nunca recomiendes contratar gente como primera acción. Casi siempre esconde un proceso sin documentar.
+- Una prioridad que nadie más que el dueño puede empujar necesita fecha de revisión a mitad del trimestre.

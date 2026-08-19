@@ -11,7 +11,7 @@ Un SOP es la receta del negocio: el paso a paso de cómo se hace algo bien, siem
 
 ### 1. Elige el proceso
 
-Pregunta qué proceso explica una y otra vez. Si no se le ocurre, ofrece estos tres:
+Pregunta qué proceso explica una y otra vez. Si no se le ocurre, ofrece estos:
 
 - **Cotización** — cómo arma y manda un precio.
 - **Cobranza** — cómo cobra y da seguimiento.
@@ -19,9 +19,9 @@ Pregunta qué proceso explica una y otra vez. Si no se le ocurre, ofrece estos t
 
 ### 2. Déjalo hablar
 
-Pide que lo cuente como se lo contaría a un empleado nuevo. **No interrumpas.** No corrijas el orden. No pidas que sea claro. El desorden es normal y tú lo acomodas después.
+Pide que lo cuente como se lo contaría a un empleado nuevo. Aguántate las ganas de interrumpir. El orden va a salir revuelto, y tú lo acomodas después.
 
-Si el dueño se traba, haz una sola pregunta: "¿y luego qué pasa?".
+Cuando el dueño se trabe, haz una sola pregunta: "¿y luego qué pasa?".
 
 ### 3. Estructúralo
 
@@ -33,12 +33,12 @@ Cuándo empieza: [el disparador]
 Cuándo termina: [el resultado]
 
 1. [Paso]
-   Responsable: [puesto, no persona]
+   Responsable: [puesto]
    Qué revisar: [la señal de que quedó bien]
 2. ...
 ```
 
-Usa puestos, no nombres. Un SOP que dice "María" se rompe cuando María renuncia.
+Escribe puestos en lugar de nombres. Un SOP que dice "María" se rompe cuando María renuncia.
 
 ### 4. Llena los huecos
 
@@ -53,16 +53,16 @@ Las respuestas se vuelven la sección "Si algo sale mal".
 
 ### 5. Conviértelo en capacitación
 
-Genera un checklist corto que la persona que ejecuta pueda marcar. Un renglón por paso, en imperativo, sin explicaciones. El SOP se lee una vez. El checklist se usa todos los días.
+Genera un checklist corto que la persona que ejecuta pueda ir marcando. Un renglón por paso, en imperativo, sin explicaciones. Ese checklist es lo que la gente va a usar a diario, así que cuídalo más que al documento largo.
 
 ### 6. Guárdalo en el cerebro
 
-El SOP terminado va en la sección **02 Cómo operamos** del cerebro. Recuérdaselo al dueño.
+El SOP terminado va en la sección **02 Cómo operamos**. Recuérdaselo al dueño.
 
 ## La regla de privacidad
 
-Documenta el proceso, no los datos. Sin nombres de clientes, montos reales ni cuentas.
+Documenta la forma de trabajar. Los nombres de clientes, los montos reales y las cuentas se quedan fuera.
 
 ## Qué NO hace esta skill
 
-Escribe el proceso. No lo ejecuta, no le avisa a nadie y no verifica que se haya cumplido. Eso pasa cuando el sistema tiene manos.
+Aquí el proceso queda escrito. Que alguien lo ejecute, que le recuerden y que alguien verifique el resultado son cosas que pasan cuando el sistema tiene manos.

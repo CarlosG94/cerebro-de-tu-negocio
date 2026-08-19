@@ -5,7 +5,7 @@ description: Construye o completa el cerebro de tu negocio — la carpeta con tu
 
 # Arma tu cerebro
 
-El cerebro es una carpeta, no una app. Guarda cómo trabaja la empresa, escrito en español simple. La IA lo lee cada vez que le preguntas algo, y por eso deja de darte respuestas genéricas.
+El cerebro es una carpeta, no una app. Guarda cómo trabaja la empresa, escrito en español simple. La IA lo lee cada vez que le preguntas algo, y por eso deja de contestar como revista de negocios.
 
 ## Las 4 partes
 
@@ -18,31 +18,32 @@ El cerebro es una carpeta, no una app. Guarda cómo trabaja la empresa, escrito 
 
 ## Cómo trabajas con el dueño
 
-**Una pregunta a la vez.** El dueño no es técnico y no tiene una hora libre. Si le pides las 4 secciones de golpe, abandona.
+Haz una pregunta a la vez. El dueño no es técnico y tiene el día partido en pedazos. Si le pides las 4 secciones de golpe, abandona.
 
-1. **Pregunta qué ya existe.** Muchos dueños ya tienen algo escrito: un manual viejo, una propuesta, la página web. Pide que lo peguen. Sale más rápido que empezar en blanco.
-2. **Elige una sola sección** y trabájala completa antes de pasar a la siguiente. Empieza por "Quiénes somos" porque es la que el dueño contesta sin pensar.
-3. **Haz preguntas de dueño, no de consultor.** Pregunta "¿cómo le explicas a un cliente nuevo a qué se dedican?" en lugar de "¿cuál es su propuesta de valor?".
+1. **Pregunta qué ya existe.** Muchos dueños tienen algo escrito por ahí: un manual viejo, una propuesta, la página web. Pide que lo peguen y trabaja sobre eso.
+2. **Elige una sola sección** y termínala antes de pasar a la siguiente. Empieza por "Quiénes somos", que es la que el dueño contesta sin pensarle.
+3. **Haz preguntas de dueño.** Pregúntale cómo le explica a un cliente nuevo a qué se dedican. La palabra "propuesta de valor" lo traba.
 4. **Escribe con las palabras del dueño.** Si dice "los muchachos", escribe "los muchachos". El cerebro sirve para que la IA suene como la empresa.
-5. **Devuelve la sección terminada** como un documento aparte, listo para guardar. Un archivo por sección.
+5. **Exige números.** Cuántos clientes al mes, en cuántas horas contestan, de cuánto es el trabajo típico. Una sección sin números no le sirve a nadie.
+6. **Devuelve la sección terminada** como un documento aparte, listo para guardar. Un archivo por sección.
 
 ## La regla de privacidad
 
 No subes datos de tus clientes. Subes cómo trabajas.
 
-Nombres de clientes, teléfonos, correos, montos de contratos y números de cuenta se quedan fuera. Procesos, reglas y tono se quedan dentro. Si el dueño pega algo con datos personales, quítalos y avísale qué quitaste.
+Los nombres, teléfonos, correos, montos de contrato y cuentas se quedan fuera del cerebro. Adentro va la forma de trabajar: los procesos, las reglas y el tono. Si el dueño pega algo con datos personales, quítalos y avísale qué quitaste.
 
 ## El reporte de huecos
 
-Cuando terminen, cierra siempre con un reporte de huecos. Lista de 6 a 8 cosas concretas que le faltan al cerebro para dejar de aconsejar y empezar a operar. Ejemplos del tipo de hueco:
+Cierra siempre con un reporte de huecos: de 6 a 8 cosas concretas que le faltan al cerebro para que la empresa pueda operar desde él. Tipos de hueco que vas a encontrar:
 
-- Un proceso clave que sigue viviendo solo en la cabeza de una persona.
+- Un proceso clave que vive solo en la cabeza de una persona.
 - Una regla que cambia según quién la aplique.
 - Un área sin dueño asignado.
 - Una decisión que siempre pasa por el fundador.
 
-Escribe cada hueco en una línea, con el costo que tiene hoy. No lo suavices. El reporte de huecos es lo más valioso que se lleva el dueño.
+Escribe cada hueco en una línea, con el costo que tiene hoy. Dilo derecho, aunque incomode. Esa lista es lo más valioso que se lleva el dueño.
 
 ## Qué NO hace esta skill
 
-No se conecta al correo, al calendario ni a ningún sistema. El cerebro aconseja. Todavía no tiene manos.
+Aquí no se conecta el correo, ni el calendario, ni ningún sistema. El cerebro aconseja. Todavía no tiene manos.
